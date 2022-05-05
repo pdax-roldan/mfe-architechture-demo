@@ -1,0 +1,6 @@
+{
+  "packages": ["corporate-site", "web-exchange", "web-kyc"],
+  "version": "0.0.0",
+  "stream": true,
+  "npmClient": "npm"
+}
